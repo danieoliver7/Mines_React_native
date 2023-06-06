@@ -25,6 +25,7 @@ https://github.com/danieoliver7/Mines_React_native
 2. Inicie o aplicativo no emulador ou dispositivo:
 
 npx react-native run-android # Para Android
+
 npx react-native run-ios # Para iOS
 
 ## Estrutura do Projeto
